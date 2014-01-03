@@ -1,8 +1,14 @@
 {
 	"name": "ModularUtilitiesAMD",
 	"version": "0.0.1",
+	"ignore": [
+        ".gitignore",
+        "bower.json",
+        "package.json",
+        "README.md"
+    ],
 	"dependencies": {
-		"requirejs": "latest"
+		"requirejs": ">=2.1.8"
 	},
 	"devDependencies": {}
 }
