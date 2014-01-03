@@ -4,11 +4,8 @@
 	"ignore": [
         ".gitignore",
         "bower.json",
-        "package.json",
         "README.md"
     ],
-	"dependencies": {
-		"requirejs": ">=2.1.8"
-	},
+	"dependencies": {},
 	"devDependencies": {}
 }
