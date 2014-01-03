@@ -1,0 +1,8 @@
+/temp/*
+/logs/*
+/node_modules/
+.DS_Store
+*.pyc
+*.scssc
+*.pngc
+.sass-cache
