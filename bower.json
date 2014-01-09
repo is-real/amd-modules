@@ -4,7 +4,8 @@
 	"ignore": [
         ".gitignore",
         "bower.json",
-        "README.md"
+        "README.md",
+        "src/utils/preload"
     ],
 	"dependencies": {},
 	"devDependencies": {}
